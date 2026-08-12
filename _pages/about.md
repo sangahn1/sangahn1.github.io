@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Tony's AI Academic Research Centerzz"
+title: "Welcome to Tony's AI Academic Research Center"
 author_profile: true
 redirect_from: 
   - /about/
